@@ -12,7 +12,7 @@ I build data-driven applications: dashboards, APIs and web interfaces, some powe
 
 ## Featured projects
 
-**🛒 [OmniShop](https://github.com/hibahedhli/omnishop)**: sales analytics dashboard with REST APIs and interactive charts. Final-year project (PFA), presented in an oral defense.
+**🛒 [OmniShop](https://github.com/hibahedhli/dashboard_omnishop)**: sales analytics dashboard with REST APIs and interactive charts. Final-year project (PFA), presented in an oral defense.
 Python · Flask · Matplotlib · Chart.js
 
 **📊 [Customer Intelligence & Retention Analytics](https://github.com/hibahedhli/your-repo-name)**: churn analysis and customer segmentation in an interactive Streamlit app.
