@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Hiba 👋
 
-<!--
-**hibahedhli/hibahedhli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Software Developer in the making, studying Mathematics and Computer Science in Tunis**
+Looking for an **internship in Data Science, AI & Software Development**.
 
-Here are some ideas to get you started:
+📧 hibahedhli460@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/hibahedhli/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+I build data-driven applications: dashboards, APIs and web interfaces, some powered by machine learning. I'm now moving deeper into deep learning, explainable AI and cloud.
+
+## Featured projects
+
+**🛒 [OmniShop](https://github.com/hibahedhli/omnishop)**: sales analytics dashboard with REST APIs and interactive charts. Final-year project (PFA), presented in an oral defense.
+Python · Flask · Matplotlib · Chart.js
+
+**📊 [Customer Intelligence & Retention Analytics](https://github.com/hibahedhli/your-repo-name)**: churn analysis and customer segmentation in an interactive Streamlit app.
+Python · Pandas · Streamlit
+
+## Tech stack
+**Languages:** Python, R, C++, C#, SQL
+**Data & AI:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, feature engineering, supervised learning
+**Web:** Flask, FastAPI, HTML, CSS, JavaScript, Chart.js
+**Tools:** Git/GitHub, Docker, Jupyter, VS Code, Linux
+
+## Currently learning
+🧠 Modern AI and deep learning
+🔍 Explainable AI (making model decisions understandable)
+☁️ Cloud fundamentals for deploying AI applications
+
+---
+📫 Open to internships. Feel free to reach out!
